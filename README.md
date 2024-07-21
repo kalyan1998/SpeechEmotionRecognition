@@ -74,6 +74,7 @@ This project aims to identify emotions from speech using deep learning models, s
 ## Acknowledgments
 
 - Jawaharlal Nehru Technological University Hyderabad
+- Dr. Supreethi K.P., Jawaharlal Nehru Technological University, Hyderabad
 
 ---
 
