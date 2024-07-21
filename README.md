@@ -66,9 +66,9 @@ This project aims to identify emotions from speech using deep learning models, s
 ![Converting Audio To MEL Spectrogram](https://github.com/kalyan1998/SpeechEmotionRecognition/blob/main/PreProcessing_1.png)
 
 ### After Preprocessing
-![Normalizing Audio](https://github.com/kalyan1998/SpeechEmotionRecognition/blob/main/PreProcessing_2.png)
+![Normalizing Audio](https://github.com/kalyan1998/SpeechEmotionRecognition/blob/main/preProcessing_2.png)
 
-![Time Shifting](https://github.com/kalyan1998/SpeechEmotionRecognition/blob/main/PreProcessing_3.png)
+![Time Shifting](https://github.com/kalyan1998/SpeechEmotionRecognition/blob/main/preProcessing_3.png)
 
 ## Contributing
 
