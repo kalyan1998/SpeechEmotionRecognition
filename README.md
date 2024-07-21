@@ -70,16 +70,6 @@ This project aims to identify emotions from speech using deep learning models, s
 
 ![Time Shifting](https://github.com/kalyan1998/SpeechEmotionRecognition/blob/main/preProcessing_3.png)
 
-## Contributing
-
-We welcome contributions from the community! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a pull request
-
 
 ## Acknowledgments
 
